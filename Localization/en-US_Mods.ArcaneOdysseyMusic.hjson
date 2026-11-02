@@ -7,6 +7,7 @@ Items: {
 	EliusMusicBox.DisplayName: Music Box (Lord Elius)
 	TitleMusicBox.DisplayName: Music Box (Arcane Odyssey Title)
 	TitleMusicBox2.DisplayName: Music Box (Arcane Odyssey Alt Title)
+	TalosMusicBox.DisplayName: Music Box (Fort Talos)
 }
 
 Tooltip: Plays '{0}' by {1}
@@ -19,7 +20,7 @@ Music: {
 
 	Argos: {
 		DisplayName: The Lion of Ravenna
-		Author: nue houjuu?
+		Author: elfey1
 	}
 
 	Atlantean: {
@@ -50,5 +51,10 @@ Music: {
 	TitleTheme2: {
 		DisplayName: The Call of Adventure
 		Author: Tobi
+	}
+
+	Talos: {
+		DisplayName: Wandering the Aged Bronze Halls
+		Author: elfey1
 	}
 }
