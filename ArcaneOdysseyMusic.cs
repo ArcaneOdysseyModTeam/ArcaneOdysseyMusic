@@ -32,7 +32,8 @@ namespace ArcaneOdysseyMusic
 		public static MusicTrack Argos => new("Argos");
 		public static MusicTrack Atlantean => new("Atlantean");
 		public static MusicTrack Djin => new("Djin");
-		public static MusicTrack[] All => [Atlantean, Argos, TitleTheme, TitleTheme2, DarkSea, Elius, Allanon, Djin];
+		public static MusicTrack Talos => new("Talos");
+		public static MusicTrack[] All => [Atlantean, Argos, TitleTheme, TitleTheme2, DarkSea, Elius, Allanon, Djin, Talos];
 
 		public string InternalName = name;
 
